@@ -1,0 +1,6 @@
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\bin\Debug\SQLContactsDB.dacpac
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\bin\Debug\SQLContactsDB.dll
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\bin\Debug\SQLContactsDB.pdb
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\obj\Debug\SQLContactsDB.sqlproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\obj\Debug\SQLContactsDB.dll
+C:\Users\Monster\Desktop\C# Projects\Data-Access\RelationalDBs\SQLContactsDB\obj\Debug\SQLContactsDB.pdb
