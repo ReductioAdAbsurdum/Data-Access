@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace DataAccessLibrary
 {
-    public class SQLDataAccess
+    public class SqlDataAccess
     {
         public List<T> LoadData<T, U>(string sqlStatement, U parameters, string connectionString) 
         {

@@ -9,7 +9,7 @@ namespace DataAccessLibrary.Models
         public int Id { get; set; }
         public String FirstName { get; set; }
         public String LastName { get; set; }
-        public List<EmailAddressModel> EmailAdresses { get; set; }
-        public List<PhoneNumberModel> PhoneNumbers { get; set; }
+        public List<EmailAddressModel> EmailAdresses { get; set; } = new List<EmailAddressModel>();
+        public List<PhoneNumberModel> PhoneNumbers { get; set; } = new List<PhoneNumberModel>();
     }
 }
